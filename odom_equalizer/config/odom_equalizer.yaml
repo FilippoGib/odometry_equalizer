@@ -1,0 +1,4 @@
+/odom_equalizer_node:
+  ros__parameters:
+    odom_topic: "/Odometry"
+    service_name: "/world/sim/set_pose"
